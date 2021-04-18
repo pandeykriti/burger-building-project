@@ -29,8 +29,7 @@ then
 
 ## How Can I Start?
 
-Live version is available here: 
-https://react-my-burger-e9b44.firebaseapp.com/
+
 
 #### License
 
